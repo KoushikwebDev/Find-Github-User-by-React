@@ -1,8 +1,6 @@
-# **Silico Note App**
+# **Find Github User**
 
-### My Internship Project
-
-**It is a Note taking App with Authentication System. MERN technology used here.**
+### My React Project - Find Github User
 
 ## Author
 
